@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Final_Submission</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished Events</string>
+    <string name="title_Favorite">Favorite Events</string>
+    <string name="title_Setting">Setting</string>
+    <string name="image_desc">image desc</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Lihat_Acara">Lihat Acara</string>
+    <string name="Event_Description">Event Description</string>
+    <string name="Upcoming">Upcoming</string>
+    <string name="Finished_Events">Finished Events</string>
+    <string name="quota_text">Sisa Kuota acara: %1$d</string>
+    <string name="link_not_available">Link acara tidak tersedia</string>
+    <string name="event_logo_desc">event logo desc</string>
+    <string name="Settings">Settings</string>
+    <string name="no_events_available">Tidak ada acara yang tersedia</string>
+    <string name="failed_to_load_events">Gagal memuat acara: %1$s</string>
+    <string name="error_loading_events">Error: %1$s</string>
+    <string name="remaining_quota">Sisa Kuota: %1$d</string>
+    <string name="event_name">Event Name</string>
+    <string name="response_body_null">Response body is null</string>
+    <string name="event_not_found">Acara tidak ditemukan</string>
+    <string name="failed_to_fetch_event_data">Gagal mendapatkan data acara</string>
+    <string name="error_occurred">Terjadi kesalahan: %1$s</string>
+    <string name="event_id_invalid">Event Id Invalid</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_icon_desc">favorite icon desc</string>
+    <string name="favorite_event_name_desc">The name of the favorite event</string>
+    <string name="favorite_event_description_desc">The description of the favorite event</string>
+    <string name="remove_favorite_button_desc">Button to remove event from favorites</string>
+    <string name="No_favorite_events_available">  No favorite events available</string>
+    <string name="favorite_button">favorite button</string>
+    <string name="event_image">event image</string>
+    <string name="toggle_favorite">toggle favorite</string>
+    <string name="favorite_icon"> favorite icon</string>
+    <string name="favorite"> favorite</string>
+    <string name="favorite_frag_title"> favorite</string>
+    <string name="image_logo_event">Logo Acara</string>
+    <string name="detail_name">Nama Acara</string>
+    <string name="detail_owner">Pemilik Acara</string>
+    <string name="detail_time">Waktu Acara</string>
+    <string name="detail_quota">Kuota Acara</string>
+    <string name="detail_desc">Deskripsi Acara</string>
+    <string name="button_event_desc">Link untuk detail acara</string>
+    <string name="detail_link">Kunjungi Link</string>
+    <string name="love_btn">love btn</string>
+    <string name="Dark_Mode">Dark Mode</string>
+    <string name="Daily_Reminder"> Daily Reminder</string>
+
+
+</resources>
